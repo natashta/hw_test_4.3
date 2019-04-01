@@ -21,6 +21,6 @@ npm install --save-dev webpack-dev-server
 # jest lection
 npm install --save-dev jest babel-jest
 
-#
+# jsdoc lection
 npm install --save-dev jsdoc
 ```
