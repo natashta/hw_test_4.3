@@ -11,7 +11,7 @@
 npm install --save-dev live-server
 npm install --save-dev eslint eslint-config-airbnb-base eslint-plugin-import
 npm install --save-dev @babel/core @babel/cli @babel/preset-env
-npm install @babel/polyfill
+npm install @babel/polyfill core-js@3
 
 # webpack lection
 npm install --save-dev webpack webpack-cli
